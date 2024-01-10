@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    // "emitDecoratorMetadata": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "rootDir": "src",
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES6",
+  },
+  "lib": ["ES2021"]
+}

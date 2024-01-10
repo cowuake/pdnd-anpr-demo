@@ -1,0 +1,17 @@
+{
+    "authURL": "https://auth.uat.interop.pagopa.it/token.oauth2",
+    "clientID": "MY-CLIENT-ID (should be available in PDND)",
+    "codiceFiscale": "TARGET-CF",
+    "hashAlgorithm": "SHA256",
+    "keyID": "MY-KEY-ID (should be available in PDND and correspond to the private key in use)",
+    "keyLocation": "./client-test-keypair.rsa.priv",
+    "LoA": "MY-LOA (e.g., LOA3)",
+    "purposeID": "MY-PURPOSE-ID (should be available in PDND)",
+    "serviceAudience": "auth.uat.interop.pagopa.it/client-assertion",
+    "serviceURL": "https://modipa-val.anpr.interno.it/govway/rest/in/MinInternoPortaANPR-PDND/C019-servizioAccertamentoEsistenzaVita/v1/anpr-service-e002",
+    "signatureAudience": "https://modipa-val.anpr.interno.it/govway/rest/in/MinInternoPortaANPR/C019-servizioAccertamentoEsistenzaVita/v1",
+    "tokenValidityInMinutes": 60,
+    "userID": "MY-USER-ID",
+    "userLocation": "MY-LOCATION",
+    "verbose": true
+}
