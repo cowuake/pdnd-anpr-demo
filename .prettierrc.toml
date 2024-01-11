@@ -1,8 +1,9 @@
 trailingComma = "none"
 tabWidth = 2
-semi = false
+semi = true
 singleQuote = true
 bracketSpacing = true
 parser = "typescript"
 endOfLine = "lf"
-printWidth = 120
+printWidth = 100
+arrowParens = "avoid"

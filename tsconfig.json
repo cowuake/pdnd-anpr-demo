@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    // "emitDecoratorMetadata": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "module": "commonjs",
@@ -10,6 +9,9 @@
     "sourceMap": true,
     "strict": true,
     "target": "ES6",
+    "noImplicitAny": true
   },
+  "include": ["src"],
+  "exclude": ["node_modules"],
   "lib": ["ES2021"]
 }
