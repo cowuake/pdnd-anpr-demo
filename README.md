@@ -1,6 +1,6 @@
 # PDND-ANPR-DEMO
 
-An example showing how to access e-services exposed through [PDND Interoperabilità](https://www.interop.pagopa.it/) via  NodeJS / TypesScript.
+An example showing how to access e-services exposed through [PDND Interoperabilità](https://www.interop.pagopa.it/) via  Node.js / TypesScript.
 
 ## Targeted e-service
 
@@ -16,7 +16,7 @@ A `config.json` file must be present in the root folder in order to run the exam
 
 #### Node.js
 
-A recent version (tested on v20.10.0) of the [NodeJS](https://nodejs.org/en) runtime is expected to be already installed on your machine.
+A recent version (tested on v20.10.0) of the [Node.js](https://nodejs.org/en) runtime is expected to be already installed on your machine.
 
 #### TypeScript
 
