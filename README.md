@@ -31,6 +31,6 @@ In the root folder, execute the following commands:
 
 Enjoy!
 
-### Improved QOL
+### Improved QoL
 
 Were you in need of inspecting the program execution, and well accustomed to VSCode, all is provided for a basic debug.
