@@ -1,4 +1,4 @@
-# PDND-ANPR-DEMO
+# PDND-ANPR-Demo
 
 An example showing how to access e-services exposed through [PDND Interoperabilità](https://www.interop.pagopa.it/) via Node.js / TypesScript.
 
